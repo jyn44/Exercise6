@@ -1,13 +1,13 @@
 To do list
 Asigments Module 1
-Challenge 2 7/11/2020
-Challenge 3 9/11/2020
-Bash/python processor	20/11/2020
-Exam	20/11/2020
+0 Challenge 2 7/11/2020
+1 Challenge 3 9/11/2020
+2 Bash/python processor	20/11/2020
+2.5 Exam	20/11/2020
 Asigments Module 2
-Barbadilla's statistics	10/11/2020
-Barbadilla's challenge	10/11/2020
-MutationsBrafGene	16/11/2020
-Git	17/11/2020
-Quiz	29/11/2020
-Bayesian interference ??/??/????
+3 Barbadilla's statistics	10/11/2020
+3.5 Barbadilla's challenge	10/11/2020
+4 MutationsBrafGene	16/11/2020
+5 Git	17/11/2020
+6 Quiz	29/11/2020
+7 Bayesian interference	??/??/????
