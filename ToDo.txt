@@ -1,9 +1,11 @@
 To do list
 Asigments Module 1
-Game of life
-Bash/python processor
-Exam
+Bash/python processor	20/11/2020
+Challenge 3 9/11/2020
+Exam	20/11/2020
 Asigments Module 2
-Git
-Barbadilla's statistics
-Quiz
+Git	17/11/2020
+MutationsBrafGene	16/11/2020
+Barbadilla's statistics	10/11/2020
+Bayesian interference ??/??/????
+Quiz	29/11/2020
