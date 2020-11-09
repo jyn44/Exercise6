@@ -1,1 +1,9 @@
 To do list
+Asigments Module 1
+Game of life
+Bash/python processor
+Exam
+Asigments Module 2
+Git
+Barbadilla's statistics
+Quiz
